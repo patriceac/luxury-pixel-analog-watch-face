@@ -1,0 +1,16 @@
+.gradle/
+build/
+app/build/
+watchface/build/
+local.properties
+keystore.properties
+keystore/
+*.jks
+*.keystore
+*.iml
+.idea/
+.DS_Store
+.tmp-codelab-watch-face-format/
+.tmp-google-watchface/
+emulator_picker_frames/
+/*.png
