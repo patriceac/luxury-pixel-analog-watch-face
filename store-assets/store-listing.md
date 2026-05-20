@@ -30,7 +30,7 @@ Google Play requires a public privacy policy URL. Add that URL in Play Console b
 `watchface/build/outputs/bundle/release/watchface-release.aab`
 
 ## Package Name
-`com.cyberpat.luxurypixel.watchface`
+`com.cyberpat.luxurypixel.watchface.analog`
 
 ## Wear OS Screenshot
 `store-assets/play-wear-screenshot-1024.png`
