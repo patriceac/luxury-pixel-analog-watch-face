@@ -1,24 +1,24 @@
-# Luxury Pixel Store Listing Draft
+# Luxury Pixel Digital Store Listing Draft
 
 ## App Name
-Luxury Pixel
+Luxury Pixel Digital
 
 ## Short Description
-Black and champagne analog luxury watch face for Wear OS.
+Black and champagne digital luxury watch face for Wear OS.
 
 ## Full Description
-Luxury Pixel is a premium analog watch face for Wear OS, designed around a deep black dial, champagne-gold accents, polished hour markers, circular activity readouts, and classic mechanical-watch hands.
+Luxury Pixel Digital is a premium digital watch face for Wear OS, designed around a deep black dial, champagne-gold accents, polished markers, circular activity readouts, and a bold Pixel Watch time display.
 
-Built for a refined Pixel Watch look, it shows the current date, steps, battery level, and heart rate in a balanced luxury dial layout.
+Built for a refined Pixel Watch look, it shows the current date, steps, battery level, and heart rate in a balanced luxury digital layout.
 
 ## Category
 Personalization
 
 ## Tags
-Watch face, Analog, Luxury, Wear OS
+Watch face, Digital, Luxury, Wear OS
 
 ## Release Notes
-Initial release of the Luxury Pixel black and champagne analog watch face.
+Initial release of the Luxury Pixel Digital black and champagne watch face.
 
 ## Data Safety Draft
 This watch face does not collect, share, or transmit user data. It displays on-device Wear OS data sources such as time, date, steps, battery percentage, and heart rate on the watch face.
@@ -30,7 +30,7 @@ Google Play requires a public privacy policy URL. Add that URL in Play Console b
 `watchface/build/outputs/bundle/release/watchface-release.aab`
 
 ## Package Name
-`com.cyberpat.luxurypixel.watchface`
+`com.cyberpat.luxurypixel.watchface.digital`
 
 ## Wear OS Screenshot
 `store-assets/play-wear-screenshot-1024.png`

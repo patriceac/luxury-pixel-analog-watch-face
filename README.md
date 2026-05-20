@@ -1,6 +1,6 @@
-# Luxury Pixel 3 Watch Face
+# Luxury Pixel 3 Digital Watch Face
 
-Luxury Pixel 3 Watch Face is a Wear OS watch face project with a preview companion app, production watch face module, and Play Store listing assets.
+Luxury Pixel 3 Digital Watch Face is a Wear OS watch face project with a preview companion app, production watch face module, and Play Store listing assets.
 
 ## Project Structure
 
