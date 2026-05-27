@@ -1,13 +1,20 @@
-# Luxury Pixel 3 Watch Face
+# Luxury Pixel Analog Watch Face
 
-Luxury Pixel 3 Watch Face is a Wear OS watch face project with a preview companion app, production watch face module, and Play Store listing assets.
+Luxury Pixel Analog Watch Face is the Android/Wear OS source project for the analog Luxury Pixel face.
+
+Public landing page and APK downloads: https://patriceac.github.io/luxury-pixel-watch-faces/
+
+Source repositories:
+
+- Analog source: https://github.com/patriceac/luxury-pixel-analog-watch-face
+- Digital source: https://github.com/patriceac/luxury-pixel-digital-watch-face
+- Public download site: https://github.com/patriceac/luxury-pixel-watch-faces
 
 ## Project Structure
 
 - `app/` contains the Android preview app and Java renderer implementation.
 - `watchface/` contains the Wear OS Watch Face Format package.
 - `store-assets/` contains Play Store screenshots, icon, feature graphic, and listing copy.
-- `luxury-pixel-privacy/` contains the public privacy policy HTML.
 
 ## Build
 
